@@ -1,7 +1,6 @@
 import Image from "next/image";
 import photoCV from "@/assets/images/photo_cv.jpg";
 import githubIcon from "@/assets/images/icons/github.svg";
-import { SiteFooter } from "@/components/ui/site-footer";
 import {
     AgileLogo,
     AngularLogo,
@@ -105,7 +104,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div>
-                        <h3 className="text-2xl font-bold mb-4 text-center">Développement d'applications</h3>
+                        <h3 className="text-2xl font-bold mb-4 text-center">Développement d&#39;application</h3>
                         <div className="flex gap-6 flex-wrap items-center justify-center">
                             <JavaLogo/>
                             <PythonLogo/>
