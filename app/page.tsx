@@ -64,7 +64,7 @@ export default function Home() {
             <footer className="flex items-center justify-center p-8 gap-6 flex-wrap">
                 <a
                     className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-                    href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
+                    href="https://github.com/MaelDemory/CV-NextJS-Demory-Mael.git"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
