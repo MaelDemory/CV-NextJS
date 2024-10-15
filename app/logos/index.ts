@@ -1,0 +1,20 @@
+export {default as AgileLogo} from './agile';
+export {default as AngularLogo} from './angular';
+export {default as GitLogo} from './git';
+export {default as IonicLogo} from './ionic';
+export {default as JavaLogo} from './java';
+export {default as LaravelLogo} from './laravel';
+export {default as MongodbLogo} from './mongodb';
+export {default as MysqlLogo} from './mysql';
+export {default as Php} from './php';
+export {default as PLSQLLogo} from './plsql';
+export {default as PsqlLogo} from './psql';
+export {default as PythonLogo} from './python';
+export {default as ReactLogo} from './react';
+export {default as ReactNativeLogo} from './reactnative';
+export {default as SQLiteLogo} from './sqlite';
+export {default as SwiftLogo} from './swift';
+export {default as TailwindLogo} from './tailwind';
+export {default as TypeScriptLogo} from './typescript';
+export {default as UMLLogo} from './uml';
+
