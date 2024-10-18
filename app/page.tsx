@@ -39,7 +39,7 @@ export default function Home() {
                         <Image
                             src={photoCV}
                             alt="Profile Picture"
-                            width={264}
+                            width={266}
                             height={200}
                             className="rounded-full shadow-all-around mt-4 sm:mt-0"
                         />
